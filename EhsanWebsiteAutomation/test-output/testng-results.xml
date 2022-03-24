@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-24T19:56:16 BDT" name="Default suite" finished-at="2022-03-24T19:57:51 BDT" duration-ms="94606">
+    <groups>
+    </groups>
+    <test started-at="2022-03-24T19:56:16 BDT" name="Default test" finished-at="2022-03-24T19:57:51 BDT" duration-ms="94606">
+      <class name="tests.AutomationRun">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AutomationRun@32b260fa]" started-at="2022-03-24T19:56:13 BDT" name="setup" finished-at="2022-03-24T19:56:16 BDT" duration-ms="3319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:tests.AutomationRun@32b260fa]" started-at="2022-03-24T19:56:16 BDT" name="loginTest" finished-at="2022-03-24T19:57:51 BDT" duration-ms="94577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AutomationRun@32b260fa]" started-at="2022-03-24T19:57:51 BDT" name="tearDown" finished-at="2022-03-24T19:57:51 BDT" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AutomationRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
